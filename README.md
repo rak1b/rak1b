@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Websocket,Redis**
 
-- 👨‍💻 All of my projects are available at [rak1b.me](rak1b.me)
+- 👨‍💻 All of my projects are available at [rak1b.me](http://rak1b.me)
 
 - 💬 Ask me about **Python,Django**
 
 - 📫 How to reach me **rak13.dev@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/pMS78](shorturl.at/pMS78)
+- 📄 Know about my experiences [Resume](https://shorturl.at/pMS78)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
