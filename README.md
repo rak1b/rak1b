@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rak1b&label=Profile%20views&color=0e75b6&style=flat" alt="rak1b" /> </p>
 
-- 🌱 I’m currently learning **Websocket,Redis**
+- 🌱 I’m currently enhancing my skills of **Problem solving,Data structure**
 
 - 👨‍💻 All of my projects are available at [rak1b.me](http://rak1b.me)
 
