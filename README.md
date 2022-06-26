@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently enhancing my skills of **Problem solving,Data structure**
 
-- 👨‍💻 All of my projects are available at [rak1b.me](http://rak1b.me)
+- 👨‍💻 All of my projects will be available at [rak1b.me](http://rak1b.me)
 
 - 💬 Ask me about **Python,Django**
 
