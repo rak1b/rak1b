@@ -26,5 +26,5 @@
 
 ### ⚙️ &nbsp; Git Analytics
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NavodyaPasqual&theme=dark&show_icons=true" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rak1b&theme=dark&show_icons=true" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rak1b&theme=dark&layout=compact" width="410" /></p>
