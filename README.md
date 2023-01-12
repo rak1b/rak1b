@@ -56,10 +56,8 @@
   </a>
      &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
-"/>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   </a>
-  https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
   &emsp;
   <a href="https://reactjs.org/" target="_blank"> React
     <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -87,9 +85,7 @@
     <img alt="FASTAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
   </a>
   &emsp;
-  <a href="https://reactjs.org/" target="_blank"> React
-    <img alt="React" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
-  </a>
+
 </p>
 
 ### 👉 Databases & Cloud Hosting
