@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Rakibul Islam</h1>
 <h3 align="center">A Person Who Knows How To Search And Solve Problems</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=A+Person+Who+Knows+How+To+Search+And+Solve+Problems;Passionate+About+Backend;Knows+both+front+and+backend)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rak1b&label=Profile%20views&color=0e75b6&style=flat" alt="rak1b" /> </p>
 
 - 💻 I’m currently working as a **Backend Developer**
