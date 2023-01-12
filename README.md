@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rak1b&label=Profile%20views&color=0e75b6&style=flat" alt="rak1b" /> </p>
 
-- 🌱 I’m currently enhancing my skills of **Problem solving,Data structure**
+- 💻 I’m currently working as a **Backend Developer**
+
+- ⭐ Enhancing my skills of **Problem solving,Data structure**
 
 - 👨‍💻 All of my projects will be available at [rak1b.me](http://rak1b.me)
 
@@ -11,7 +13,7 @@
 
 - 📫 How to reach me **rak13.dev@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://shorturl.at/pMS78)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JWbwMmPrtkZcSPjRUw1gCBXbXuhiiwf1/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
