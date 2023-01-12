@@ -28,3 +28,7 @@
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rak1b&theme=dark&show_icons=true" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rak1b&theme=dark&layout=compact" width="410" /></p>
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/rak1b/rak1b/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
