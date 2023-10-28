@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **rak13.dev@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JWbwMmPrtkZcSPjRUw1gCBXbXuhiiwf1/view?usp=sharing)
 
 
 
