@@ -16,13 +16,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1JWbwMmPrtkZcSPjRUw1gCBXbXuhiiwf1/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rak1b" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="rak1b"  /></a>
-<a href="https://meta.stackoverflow.com/users/13053003/md-rakibul-islam" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="17962299" /></a>
-<a href="https://fb.com/rak11b" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="rak11b"  /></a>
 
-</p>
 
 
 ## 🛠️ My Skills
